@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands sole remedy: or, A vvholsome directory, for the recory [sic] of our languishing kingdome: drawn from the law of God, and the land. Containing some necessary and pertinent queries, with their resolutions, by Scriptures, law, and reason: very fit and convenient to be thought upon by all Englishmen, for the begetting of a sure, safe, and well-grounded peace. Collected and intended for the good of all. By a lover of peace and truth.</title>
+            <author>Lover of peace and truth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84002</idno>
+            <idno type="STC">Wing E3053</idno>
+            <idno type="STC">Thomason E453_7</idno>
+            <idno type="STC">ESTC R201935</idno>
+            <idno type="EEBO-CITATION">99862417</idno>
+            <idno type="PROQUEST">99862417</idno>
+            <idno type="VID">114576</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114576)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E453[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands sole remedy: or, A vvholsome directory, for the recory [sic] of our languishing kingdome: drawn from the law of God, and the land. Containing some necessary and pertinent queries, with their resolutions, by Scriptures, law, and reason: very fit and convenient to be thought upon by all Englishmen, for the begetting of a sure, safe, and well-grounded peace. Collected and intended for the good of all. By a lover of peace and truth.</title>
+                  <author>Lover of peace and truth.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To all English subjects" signed: Christianus Philopater.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114576:1" rendition="simple:additions"/>
+            <p>ENGLANDS, Sole Remedy:</p>
+            <p>OR, A VVholſome Directory, for the reco<g ref="char:EOLhyphen"/>ry of our languiſhing Kingdome: <hi>Drawn from the Law of God, and the Land.</hi>
+            </p>
+            <p>CONTAINING Some neceſſary and pertinent Queries, with their Reſolutions, by Scriptures, Law, and Reaſon: very fit and convenient to be thought upon by all Engliſhmen, for the be<g ref="char:EOLhyphen"/>getting of a ſure, ſafe, and well-grounded Peace.</p>
+            <p>Collected and intended for the good of all.</p>
+            <p>
+               <hi>By a Lover of Peace and Truth.</hi>
+            </p>
+            <p>Printed in the Yeere 1648.</p>
+         </div>
+         <div type="to_the_English_subjects">
+            <pb facs="tcp:114576:2"/>
+            <head>To all Engliſh Subjects.</head>
+            <p>REader, whoever thou art, Peace is that we all cry out for, and that we all ſeek after; but few there are which in a right way endeavour thereafter: where<g ref="char:EOLhyphen"/>fore in this <hi>juncture</hi> of time, to help for<g ref="char:EOLhyphen"/>ward ſo good and bleſſed a worke, it may be very ſeaſonably advantagious, for all Engliſh Subjects, ſeriouſly to conſider of ſome Queries, and their Reſolutions, con<g ref="char:EOLhyphen"/>cerning the Politicall frame and conſtitu<g ref="char:EOLhyphen"/>tion of this our Kingdome; which being well and conſcientiouſly thought upon, and digeſted into act, doubtleſly would beget a ſure, ſound, and well grounded peace, which out of a reall and ſincere affection, and indeavour thereafter, I have compoſed and contrived as followeth; wherein thou ſhalt finde me,</p>
+            <closer>
+               <signed>Thine in Chriſt Jeſus, <hi>Chriſtianus Philopater.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:114576:2"/>
+            <head>Englands ſole Remedy.</head>
+            <p>Quaerie 1.</p>
+            <p>
+               <note place="margin">
+                  <hi>Monarchicall,</hi> that is govern<g ref="char:EOLhyphen"/>ment <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> one which is a King. <hi>Ariſtocraticall,</hi> that is govern<g ref="char:EOLhyphen"/>ment by a few of the beſt, No<g ref="char:EOLhyphen"/>bles. <hi>Origarchicall,</hi> that is, govern<g ref="char:EOLhyphen"/>ment by a few of the moſt wealthy and powerfull.</note>
+               <hi>VVHether the government of this Kingdome,</hi> (<hi>which hath ever been</hi> Monarchicall) <hi>ſince His Majeſties departure from the two Houſes, hath been</hi> Ariſtocraticall, <hi>or</hi> Oligarchicall?</p>
+            <p>
+               <hi>Reſol.</hi> In the reſolving of this Quaerie it is obſerva<g ref="char:EOLhyphen"/>ble, that the matter doubted, is the ordering, and man<g ref="char:EOLhyphen"/>nagement of the affairs of this Kingdome, by the two Houſes at Weſtminſter, within a certain time, which is, from His Majeſties departure from them, unto this pre<g ref="char:EOLhyphen"/>ſent; wherein the ſhaken and tottered condition of our diſtreſſed Nation, hath wreſted out a ſtraine, very im<g ref="char:EOLhyphen"/>proper, thereby ſeeming to take it for granted, that the exerciſe of the two Houſes, over this Kingdome, ſince His <hi>Graces</hi> departure from them, hath beene a govern<g ref="char:EOLhyphen"/>ment, which will not beare water for theſe reaſons.</p>
+            <p n="1">
+               <note place="margin">Reaſons why the uſurpation of the <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> cannot <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> be a Government.</note>1 No Common-wealth may be ſaid to be governed, but by lawfull Authority, which lawfull Authority, where there are eſtabliſhed Lawes and Sanctions, doe uphold and maintaine the rule, and power of that Go<g ref="char:EOLhyphen"/>vernment; which the Laws and Sanctions of this King<g ref="char:EOLhyphen"/>dom, do not uphold and maintain in the two Houſes; wherefore muſt it needs be moſt certaine, that they have no authority for their <hi>over-ſwaying</hi> of this King<g ref="char:EOLhyphen"/>dome ſince his Majeſties departure.</p>
+            <p n="2">2 In this Kingdome, where there are eſtabliſhed Lowes and Sanction; that cannot be ſaid to be go<g ref="char:EOLhyphen"/>vernment, but what is in conformity and obedience
+<pb n="2" facs="tcp:114576:3"/>unto the ſaid eſtabliſhed Lawes, and Sanctions; there<g ref="char:EOLhyphen"/>fore their managing of the affaires of this Kingdome, contrary and in oppoſition unto the Lawes of our Na<g ref="char:EOLhyphen"/>tion, by <hi>an arbitrary and tyrannicall power,</hi> muſt needs conclude their uſurpation to be no Government.</p>
+            <p n="3">3. Becauſe the end of Government, is the good and perfect ſtate of the Common-wealth, which cannot be kept but by an union of the whole, whereas they have made the greateſt diſunion that can be imagined, by disjoynting and rending this Kingdome in negle<g ref="char:EOLhyphen"/>cting the Lawes thereof, and begetting ſeverall fa<g ref="char:EOLhyphen"/>ctions, diviſions, and parties therein, wherefore their undertaking the rule and command of this Realme is an <hi>abſolute uſurpation, and no Government,</hi> which phraſe in this Quaerie is to be underſtood, as they pretend themſelves to be <hi>Governours,</hi> and others doe confeſſe themſelves to be <hi>governed</hi> by them; which taken in their owne ſenſe cannot be ſaid to be <hi>Government Monarchicall,</hi> (which is the ſtate and conſtitution of this Kingdome) ſeeing they have ever ſince acted, not onely beſides, but againſt his Majeſty, contrary unto both <hi>the Law of God and the Land;</hi> therefore if their uſurpation muſt be accounted for a <hi>Government,</hi> it muſt either be <hi>Ariſtocraticall,</hi> or <hi>Oligarchicall,</hi> whereof it cannot be the former, that is <hi>Dominium Optimatum,</hi> Go<g ref="char:EOLhyphen"/>vernment by the beſt Nobles, for this hath been in that ſenſe, <hi>Regimen Communium,</hi> the government of Com<g ref="char:EOLhyphen"/>mons, by a few, or a party of the lower Houſe of Commons, therefore muſt it needs be <hi>Oligarchicall,</hi> be<g ref="char:EOLhyphen"/>cauſe it is an uſurpation of a few of the ſaid Houſe, who contrary to Law have exploded the graveſt, wiſeſt, beſt learned, and moſt conſcientious men from amongſt them, not ſuffering them to performe that truſt, which
+<pb n="3" facs="tcp:114576:3"/>their Countrey had committed to them: wherefore the Reſolution of this firſt Quaerie muſt be thus, <hi>that ſince His Majeſties departure from the two Houſes, this Kingdome hath been tyrannized over by an Oligarchy.</hi>
+            </p>
+            <p>Quaere 2. <hi>Whether or no it may be accounted a ſinne a<g ref="char:EOLhyphen"/>gainſt the Word of God in the moſt moderate Subjects of England, to believe the conſtituted Government thereof to be</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>and not</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>?</p>
+            <p>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, i. e <hi>Rignum Regale,</hi> when a people are go<g ref="char:EOLhyphen"/>verned by a King<g ref="char:punc">▪</g> accor<g ref="char:EOLhyphen"/>ding to the Law of the Land. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that is, where a King reigns ſo abſolute that, his word is a Law.</note>
+               <hi>Reſol.</hi> This Quaerie ſets the people of England in three ranks, whereof two are in extremes, and one in a meane, the one extreme are they who would attribute all that power and authority which is attributed and given unto a King in the Word of God, unto the King of England, and ſo make him the moſt abſolute King in the higheſt degree: the other extreme are the Secta<g ref="char:EOLhyphen"/>ries, who will not put any difference betwixt a King and other inferiour Magiſtrates, which is directly a<g ref="char:EOLhyphen"/>gainſt the Word of God, and the Law of the Land: but the beſt are the middle and moderate men, who hold our Kingdome to be ruled by a King according to Law, concerning whom this ſcruple is raiſed, <hi>whe<g ref="char:EOLhyphen"/>ther or no they ſin againſt the Word of God, in ſo holding?</hi> To which it is anſwered, the King of England in him<g ref="char:EOLhyphen"/>ſelfe being as abſolute as any in the world, it muſt needs be moſt certaine, that at firſt he had all that abſolute power, and then to have holden this had been a ſin againſt the Word of God, but as the King of England hath freely of his owne accord by the great Charter of England made the ſame <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, a Kingdome wherein the King is to rule according to Law, and thus to hold cannot be a ſinne againſt the Word of God, becauſe holding otherwiſe we hold contrary to the Kings Law, which is a ſin againſt the
+<pb n="4" facs="tcp:114576:4"/>Word of God, beſides the King of England having made this perpetuall pact, and agreement with his peo<g ref="char:EOLhyphen"/>ple, this therein is moſt certain, that <hi>volenti non fit in<g ref="char:EOLhyphen"/>juria; Therefore it can be no ſin againſt the Word of God, in the moſt moderate Subjects of England to believe, the con<g ref="char:EOLhyphen"/>ſtituted Government thereof, to be</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>and not</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Quaerie 3. <hi>Whether or no at the time of the Reformation, that good which was done, by caſting the Popes Authority out of mens conſciences was overballanced, by therewith caſting out the authority of Scriptures concerning</hi> Regall Au<g ref="char:EOLhyphen"/>thority?</p>
+            <p>
+               <hi>Reſol.</hi> The full ſolution of this Quaerie requires a larger Tract, and a more able pen, then for preſent is alloted unto me, wherefore herein to move greater judgements. I will but therein deliver mine owne o<g ref="char:EOLhyphen"/>pinion, which is this, that heretofore the Pope over<g ref="char:EOLhyphen"/>ruling mens conſciences, did not onely uſurp that au<g ref="char:EOLhyphen"/>thority, but thereby did alſo greatly injoyne groſſe <hi>Idolatry,</hi> and <hi>Superſtition:</hi> directly againſt the Word of God: wherefore our exemption and freedome there<g ref="char:EOLhyphen"/>from, muſt needs be unſpeakable good unto this King<g ref="char:EOLhyphen"/>dome, but on the contrary, the caſting out or at leaſt neglecting the authority of Scriptures, concerning <hi>Re<g ref="char:EOLhyphen"/>gall Authority,</hi> hath brought an unſpeakable hurt unto this Kingdome, by begetting and cauſing blaſphemy and prophanation, ſacriledge and impiety againſt God, treaſon, and rebellion againſt his ſacred Majeſty, ruine and deſtruction to the Church, faction and diviſion in the Kingdome, which though at firſt they were not diſcerned, this our age hath had thereof too deare and deep experience; but whether or no theſe evills, do coun<g ref="char:EOLhyphen"/>terpoize or overballance, that good which was done, by
+<pb n="5" facs="tcp:114576:4"/>exploding the Popes Authority out of this Kingdome, I leave to be determined by greater abilities.</p>
+            <p>Quaerie 4. <hi>Whether or no, a right and lawfull King, hath power from God, to bleſſe, or curſe his People?</hi>
+            </p>
+            <p>
+               <hi>Reſol.</hi> This queſtion is to be holden in the Affirma<g ref="char:EOLhyphen"/>tive; for whoſoever hath any (much more this) power, hath it from God, becauſe every good and per<g ref="char:EOLhyphen"/>fect gift comes from him, who hath given this power unto all that call upon him, thus giving, unto the poor, <hi>is a caſting our bread upon the waters, which we ſhall find, after many daies,</hi> and almeſdeeds do prevaile, as far as heaven, God heares the cries, and ſighs of the afflicted, and the cries of the poor fatherleſſe, and widdowes, all which are as the power of bleſſing, and curſing from God; and if God have granted this unto all, and ordi<g ref="char:EOLhyphen"/>nary people, how much more unto Kings, who are ſaid to be <hi>Gods, whoſe hearts are unſearchable, Prov.</hi> 25.3. <hi>A divine ſentence is in the lips of the King, Prov.</hi> 16.10. <hi>and the honour of Kings is to ſearch out a matter, Pro.</hi> 25.2. They ſit at the ſtern to diſtribute juſtice, &amp; mercy, which is bleſſing and curſing <hi>eminenter,</hi> thus <hi>Moſes yet both a bleſſing and a curſe before the People, Deut.</hi> 11.26. The exerciſe of both which we find in particular.</p>
+            <p n="1">1. That of bleſſing, thus <hi>Moſes bleſſed the children of Iſrael before his death, Deut.</hi> 33.1. <hi>And Joſhua ſent away the two Tribes and halfe with a bleſsing, Joſh.</hi> 22.6.7. <hi>and Da<g ref="char:EOLhyphen"/>vid bleſſed his people in the name of the Lord,</hi> 1 <hi>Chron.</hi> 16.2. 2 <hi>Sam.</hi> 6.18. <hi>and Solomon ſtood and bleſſed all the Con<g ref="char:EOLhyphen"/>gregation of Iſrael with a loud voice,</hi> 1 <hi>Kings</hi> 8.55. <hi>And David kiſſed <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and bleſſed him,</hi> 2 <hi>Sam.</hi> 19.39.</p>
+            <p n="2">2. That of curſing, <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> curſed the rebuilder of Jeri<g ref="char:EOLhyphen"/>cho, <hi>Joſ.</hi> 6.26. which was executed above 520 years af<g ref="char:EOLhyphen"/>ter, upon <hi>Hiel</hi> the <hi>Bethe<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> 1 King. 16.24. And <hi>David
+<pb n="6" facs="tcp:114576:5"/>layd a very heavie curſe upon Joah,</hi> 2 <hi>Sam.</hi> 3.24. there<g ref="char:EOLhyphen"/>fore unto ſome purpoſe, hath Solomon ſaid, <hi>the wrath of a King is as the roaring of a Lion, Prov.</hi> 14.12. which God having given unto all Kings, it muſt needs alſo be given unto the King of England, which God hath made manifeſt and apparent unto all the world, and that in an extraordinary manner, in that his touch doth heal that diſeaſe, which hath received name from him, which is a great &amp; certain bleſſing; and having the one he hath the other, (as well as the Kings of Iſrael) for it is a maxime in Logick, <hi>Contrarioru<g ref="char:cmbAbbrStroke">̄</g> eadem eſt ratio.</hi> It is true, I have heard ſome ſay (how truly I know not) that his Majeſties touch in this laſt age hath not pro<g ref="char:EOLhyphen"/>ved unto all ſo effectuall as in former, the anſwer whereunto (if it may be granted,) is very cleare and obvious: was there ever age more traiterous, trecherous, &amp; rebellious againſt their Soveraigne then this? which are the effects of incredulity, which were ſo praevalent a<g ref="char:EOLhyphen"/>mongſt the Nazarites, our Saviours own country-men, that he did not many works there becauſe of their <hi>unbe<g ref="char:EOLhyphen"/>lief, Mat.</hi> 13.58 &amp; that abating the power in the giver, we herein may ſee Gods great mercy, that it is not quite obſtructed in the gifted, though a King. <hi>Therefore it is to be believed, that a right and lawfull King hath power from God, to bleſſe or curſe his People.</hi>
+            </p>
+            <p>Quaerie 5. <hi>Whether or no that forme of Government Ec<g ref="char:EOLhyphen"/>cleſiaſticall and civill pretended or intended by the two Hou<g ref="char:EOLhyphen"/>ſes may ſtand with the nature of this Age and People?</hi>
+            </p>
+            <p>
+               <hi>Reſol.</hi> This Quaerie conſiſts of two parts concerning goverment:
+<list>
+                  <item>1 <hi>Eccleſiaſticall,</hi>
+                  </item>
+                  <item>2 <hi>Civill:</hi>
+                  </item>
+               </list>
+in both which I will but deliver mine opinion, which I conceive to be truth: and in the latter I will but only give a word or two, (referring it unto the learned in the Lawes of the
+<pb n="7" facs="tcp:114576:5"/>Land, unto whom it is moſt proper) which ſhall be this, that the <hi>Civill Government</hi> of this Kingdome, by the Ordinances of the two Houſes, muſt needs prove de<g ref="char:EOLhyphen"/>ſtructive unto this Nation; becauſe,</p>
+            <p n="1">1. They are deſtructive unto the eſtabliſht Law of the Land, which is the preſervation of the people.</p>
+            <p n="2">2. The good and peace of no Kingdome, can ſtand in continuall change and mutability, full whereof are their Ordinances, which have been ordered, unordered, and counter-ordered, at pleaſure for their pleaſures; without reſpect unto the good of the Common<g ref="char:EOLhyphen"/>wealth.</p>
+            <p n="3">3. This kind of Government (if it may be ſo called) is abſolutely the moſt <hi>Arbitrary, Tyrannicall, and Licen<g ref="char:EOLhyphen"/>tious,</hi> that can be imagined, and therefore can ſtand with no age nor People.</p>
+            <p n="2">2. <hi>Eccleſiaſticall Government,</hi> that as the former, no man can tell what is, but ſomething they would ſeem to put upon us, by the name of <hi>Presbytery,</hi> which cannot ſtand with this age nor people, for theſe reaſons; in re<g ref="char:EOLhyphen"/>ſpect unto
+<list>
+                  <item>1. <hi>The People of the Land.</hi>
+                  </item>
+                  <item>2. <hi>The Law of the Land.</hi>
+                  </item>
+                  <item>3. <hi>The Law of God.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <hi>In reſpect of the people of the Land,</hi> becauſe all the Kingdome which are noble, wealthy, wiſe, knowing, honeſt, and conſcientious, (which are numerous) and moſt fit to ſit at the ſtern of the State, are of a contrary judgement: beſides the greateſt part, the moſt ſober minded, and moderate men, have ever been educated and brought up in ſo contrary a way, that they will never ſubmit thereunto, but with murmuring, heart<g ref="char:EOLhyphen"/>burning, and repining, which at leaſt will bring diſtur<g ref="char:EOLhyphen"/>bance, if not ruine unto this Kingdome.</p>
+            <pb n="8" facs="tcp:114576:6"/>
+            <p n="2">2. <hi>In reſpect unto the Law of the Land,</hi> this imaginary Eccleſiaſticall <hi>Eutopia,</hi> would ſo cut, claſh, thwart, croſſe, and interfere all the old Law of the Kingdom, that it muſt be deſtroyed, and either a new made, which what it may prove, no wiſe man would put unto venture, <hi>or it would give us over unto all liberty and licence, or beget arbitrary and tyrannicall Government.</hi>
+            </p>
+            <p n="3">3. <hi>In reſpect unto the Law of God,</hi> this kind of Govern<g ref="char:EOLhyphen"/>ment is plainely, and directly againſt the Word of God, and never dreamed of untill <hi>Calvins</hi> time; and there<g ref="char:EOLhyphen"/>fore if it be ſet up, we muſt expect Gods ſevere curſe, upon and for the ſame: ſo that what hath been ſaid in this Quaerie may make it cleare unto all that are not wil<g ref="char:EOLhyphen"/>fully blind, <hi>that their pretended or intended Government, neither Civill nor Eccleſiaſticall may ſtand with the nature of this preſent age and people.</hi>
+            </p>
+            <p>Quaerie. 6. <hi>Whether or no the Lords now ſitting in the upper Houſe of Parliament, having ſo much failed in their truſt, may not more juſtly be deprived of ſitting there, then Lords formerly for decayed Eſtates?</hi>
+            </p>
+            <p>
+               <hi>Reſol.</hi> How the Law of the Land will preciſely re<g ref="char:EOLhyphen"/>ſolve this Quaerie, I leave unto the learned in that pro<g ref="char:EOLhyphen"/>feſſion, but to them ignorant in the conſtitution of any Common-wealth, halfe-eyed reaſon will make it good in the Affirmative, conſidering the end wherefore Parliament-men ſit in the two Houſes, is to conſult, and adviſe with their Prince, concerning making Lawes for the good of the Kingdome, whereunto <hi>bona fortunae,</hi> the riches of fortune, whereof are wealth, Revenues, honour, and the like, are nothing eſſentiall, but onely additionall thereunto, for honour, credit and ſupply<g ref="char:EOLhyphen"/>ing of outward neceſſities ſake, but <hi>bona animi,</hi> the goods of the mind, as are learning, eſpecially in the
+<pb n="9" facs="tcp:114576:6"/>Law of God and the Land, tenderneſſe of affection for the glory of God, and the good of their Country, for the execution whereof it is requiſite they be quali<g ref="char:EOLhyphen"/>fied with fidelity, reſolution, diſcretion, judgement, and juſtice, without which they can never attaine un<g ref="char:EOLhyphen"/>to that end for which they ſit; as the one therefore is of more uſe for the attaining of that end, at which they are to aime, then the other, it is in an anſwerable proportion, more neceſſary then the other, and the want thereof muſt neceſſarily the more diſable the parties ſo wanting from the charge and truſt of ſo great an imployment. <hi>The Lords therefore now ſitting in the upper Parliament-Houſe, having failed in their truſt and fidelity, doe more juſtly deſerve to be debarred from ſit<g ref="char:EOLhyphen"/>ting in the Houſe, then Lords formerly for decayed Eſtates.</hi>
+            </p>
+            <p>Quaerie. 7. <hi>Whether or no by the Lawes of this King<g ref="char:EOLhyphen"/>dome the two Houſes their raiſing of Armies without his Majeſties conſent, is a rebellious riot, (beſides the Statute Law of the Land) conſidering they neither have, nor could knight their moſt deſerving Souldiers for their Martiall ſer<g ref="char:EOLhyphen"/>vice?</hi>
+            </p>
+            <p>
+               <hi>Reſol.</hi> The Law of the Land reſolves this doubt clearly in the Affirmative, St. 30. Die Octobris, An. 7. Ed. 1. the words are theſe: <hi>Now in our Parliament at Weſtminſter, the Prelates, Earles, Barons, and the Commo<g ref="char:EOLhyphen"/>nalty of the Realme, there aſſembled to take adviſe, have ſaid that to us it belongeth, and our part is through our royall Seignory, ſtraightly to defend force of Armes, and all other force againſt our peace, at all times when it ſhall pleaſe us, and to puniſh them which ſhall doe contrary, according to the Lawes and uſages of this Realme, and hereunto they are bound to aid us as their Soveraigne Lord at all ſeaſons, when need ſhall be:</hi> but thus to raiſe Armies, againſt their Soveraigne Lord the King is downeright
+<pb n="10" facs="tcp:114576:7"/>Treaſon, St. 25. Ed. 3.2. <hi>If a man doe levy warre againſt their Soveraigne Lord the King in this Realme, or be ad<g ref="char:EOLhyphen"/>herent unto the Kings enemies in his Realme, giving to them aid and comfort in the Realme or elſwhere, and thereof be provably attainted of open deed by people of their condition. And if a man counterfeit the Kings great or Privy Seale, and if a man ſlay the Chancellour, it is to be underſtood in the caſes rehearſed, that ought to be judged Treaſon, which extends to our Lord the King and his royall Majeſty,</hi> which Act concerning Treaſon is re-e<g ref="char:EOLhyphen"/>ſtabliſhed, 1 Edw. 6.12. therefore <hi>their taking up of Armes without his Majeſties conſent, is againſt the Law of the Land, and high Treaſon againſt our Soveraigne Lord the King.</hi>
+            </p>
+            <p>Quaerie. 8. <hi>Whether or no the two Houſes</hi> in ſtatu quo nunc, <hi>wanting the head, heart, and integrall parts of a Parliament; may juſtly be accounted as the repreſentative Body of this Kingdome?</hi>
+            </p>
+            <p>
+               <hi>Reſol.</hi> They do no more repreſent the body of this Kingdome, then a <hi>ſtatua</hi> or <hi>picture</hi> without head, heart; and many other members throughout, and thoſe which it hath being mangled, and abuſed, do repreſent a man: for al men know this, that in theſe two Houſes are wan<g ref="char:EOLhyphen"/>ting, the King, which is the Head of the Kingdome, the Judges of the Law, which are the heart thereof, and the Biſhops, which are the breaſts, and the moſt of the temporall Nobility, which ſhould be as the back unto that Body Politike. They know likewiſe how it is mangled, in the lower Houſe; wanting the head, heart, and integrall parts of a Parliament: It cannot therefore be gainſaid, but <hi>theſe two Houſes</hi> in ſtatu quo nunc, <hi>are no repreſentative Body of this Kingdome.</hi>
+            </p>
+            <p>Quaerie 9. <hi>Whether or no the Kingdome of England, by
+<pb n="11" facs="tcp:114576:7"/>the Judges of the Land, the Maſter of the Rolls, and the Secretaries of Eſtate, being put from the Woolſacks, is thereby deprived of one of their greateſt intereſts and con<g ref="char:EOLhyphen"/>cernments?</hi>
+            </p>
+            <p>
+               <hi>Reſol.</hi> For the ſolution of this, let the Kingdomes own experience ſpeak, and we ſhall find it in the Affir<g ref="char:EOLhyphen"/>mative; for <hi>The Judges of the Land, the Maſter of the Rolls, &amp;c.</hi> ought to ſit upon Woolſacks in the middle of the upper Houſe, becauſe wooll being the chiefeſt commodity and benefit of this Kingdome, they might thereby be put in minde thereof, to cauſe them to think and ſtudy for the ſame good of the ſaid Kingdome, and there ever upon all occaſions, to be ready to acquaint the Lords of the upper Houſe, with what is Law, the grea<g ref="char:EOLhyphen"/>teſt Intereſts and concernments of the Kingdome, whereof without them there can be no wiſe, prudent, wholſome care taken: <hi>They therefore being put from the VVoolſacks,</hi> the Kingdome thereby is deprived of their <hi>greateſt intereſts and concernments.</hi>
+            </p>
+            <p>Quaerie 10. <hi>VVhether or no the two Houſes, wanting the conſtitutive part of a Parliament, may juſtly be called a Par<g ref="char:EOLhyphen"/>liament?</hi>
+            </p>
+            <p>
+               <hi>Reſol.</hi> No more then a Body without a Soule may juſtly be ſaid to be a man: for as a reaſonable ſoule is that conſtitutive part, which makes a man; thus the King is the ſoule and life of the Law and Parliament, as is ſuf<g ref="char:EOLhyphen"/>ficiently maintained by all Orthodox Divines, &amp; ſound Lawyers. <hi>The two Houſes therefore without the King, which is the conſtitutive part of Parliaments, cannot juſtly be called a Parliament?</hi>
+            </p>
+            <p>Quaerie 11. <hi>Whether or no the Speaker of the lower Houſe, having the firſt day of this laſt Parliament, promiſed in the name of the Commons, that they ſhould not abuſe, but
+<pb n="12" facs="tcp:114576:8"/>have ſuch regard, as moſt faithfull Subjects ought to have, to their Prince, conſidering their cariage towards him for theſe ſeverall yeares, have thereby forfeited their honour, truſt, right, and intereſt in the Commonwealth?</hi>
+            </p>
+            <p>Reſol. What every rationall man, if but poized with meane moderation, will conclude of this, is ea<g ref="char:EOLhyphen"/>ſily to be conjectured; and what the Law of the Land may determine herein, I leave unto them ſtudi<g ref="char:EOLhyphen"/>ed in that Profeſſion; onely heare what the Civill Law ſaith in ſuch a caſe, concerning Councellours failing in their truſt, <hi>Si quid praeter ſpem acceſſerit, &amp; non in<g ref="char:EOLhyphen"/>veneris eum cuſtodientem tibi fidem juſtam, illum quidem expelles; alio verò uter is conſiliario, legem &amp; juſtitiam cùm puris ſervante manibus, Par. Vol. Col.</hi> 3. <hi>de Mand. Princip. Titul.</hi> 4. If any thing ſhall fall out beſides hope, and thou ſhalt not find him keeping right faith with thee, thou ſhalt expell him, but thou ſhalt uſe another Coun<g ref="char:EOLhyphen"/>cellour, which keepeth the Law and Juſtice with pure hands, and if this ſentence was juſtice upon one pri<g ref="char:EOLhyphen"/>vate Counſellour, how much more upon publike Par<g ref="char:EOLhyphen"/>liament-men, which have failed in all truſt and fidelity. But herein I will but onely hint what may be the judgement of the Holy Ghoſt, whereunto all other Reaſon, Law and Authority, ought to vaile and ſub<g ref="char:EOLhyphen"/>mit, and it ſhall be thus: amongſt many conditions requiſite to make a man a fit inhabiter of heaven, the Pſalmiſt, Pſ. 15.4. gives this for one, <hi>that he that ſweareth to his own hurt and changeth not;</hi> he then that ſweareth to his owne good, and the good of the weale publike, and changeth, ſhall never (abiding in that condition) come in heaven: but leaſt they ſhould take a ſtar<g ref="char:EOLhyphen"/>ting hole at the Old Teſtament, let them undergo the ſentence of the New, wich is this, that Covenant-breakers
+<pb n="13" facs="tcp:114576:8"/>are in number of them, who knowing the judg<g ref="char:EOLhyphen"/>ment of God, &amp; that they who commit ſuch things, are worthy of death, not only to do the ſame, but to have pleaſure in them that do them, Rom. 1.31, &amp; 32.</p>
+            <p>Thus you ſee it is an invincible truth, <hi>that the Speaker of the lower Houſe having the first day of this laſt</hi> PARLIA<g ref="char:EOLhyphen"/>MENT <hi>promiſed in the name of the Commons, that they ſhould not abuſe, but have ſuch regard, as moſt faithfull Subjects ought to have to their Prince, conſidering their ca<g ref="char:EOLhyphen"/>riage towards him for theſe ſeverall yeares, have thereby forfeited their honour, truſt, right, and intereſt, in the Com<g ref="char:EOLhyphen"/>mon-wealth.</hi>
+            </p>
+            <p>Quaere. 12. <hi>Whether or no, the two Houſes, by diſſolving the privy Counſell, did not diſſolve a greater and more ho<g ref="char:EOLhyphen"/>nourable authority then themſelves?</hi>
+            </p>
+            <p>
+               <hi>Reſol.</hi> The very termes of this Quearie lay down the ſtate thereof, for it is whether the <hi>two Houſes,</hi> not the <hi>Parliament,</hi> by diſſolving &amp;c. And thus it falls clearely into the Affirmative, for the Kings power lies habitually and originally in himſelfe, but more actually and effe<g ref="char:EOLhyphen"/>ctually in his Privy Counſell, which makes a King in the exerciſe of his Regall Power, and his Privy Coun<g ref="char:EOLhyphen"/>ſell inſeparable, and the Law of this Land makes the Privy Counſell of greater honour, and authority, then the remaining part of a full and lawfull Parliament. My reaſons are theſe.</p>
+            <list>
+               <item>1. It appeares ſo by their place and order, confirmed by Act of Parliament, St. 31. Hen. 8 10.</item>
+               <item>2. It is an order in well regulated Parliaments, if any ſpeak unreverently, or ſeditiouſly againſt the Prince, or the Privy Counſell, to ſend them to the Tower, <hi>Sir Thom. Smith Common-weal of Engl. Book</hi> 2. <hi>Chap.</hi> 3.</item>
+               <item>3. The Parliament Law of the Land makes it good St. 28. Ed. 2. the words are theſe. <hi>Nevertheleſſe, the
+<pb n="14" facs="tcp:114576:9"/>King and his Counſell, do not intend by reaſon of this Statute to diminiſh the Kings right, &amp;c.</hi> Where you ſee the Sta<g ref="char:EOLhyphen"/>tute there ſets both the King and his Counſel above the Parliament, as it is confirmed again, St. 33. Ed. 1.20. The King and his Counſell, and they that were preſent, at the making of this Ordinance, will and intend, that the right and Prerogative of his Crown ſhall be ſaved, to him in all things, where the King and his Counſell are preferred, before all that were preſent in Parliament: <hi>The two Houſes therefore by diſſolving the Privy Counſell, did diſſolve a greater and more honourable Authority then themſelves.</hi>
+               </item>
+            </list>
+            <p>Quaere. 13. <hi>Whether or no, the uſage of the two Houſes, in their mannaging of affaires for theſe late yeares, being ap<g ref="char:EOLhyphen"/>proved, may not become preſident unto other inferior Courts, to all in their ſeverall limits, and jurisdictions without. Law, Statute, Ordinance, or other lawfull Edict.</hi>
+            </p>
+            <p>
+               <hi>Reſol.</hi> What is to be ſaid of this, the late and preſent <hi>Practiſe of the Army, the ſeverall Committees, Sequeſtra<g ref="char:EOLhyphen"/>tors, and Excize men,</hi> do give a ſad and deare experience, in all of them, by their acting not only contrary unto Law and Conſcience, but even contrary to their own Ordinances, whence it followes, <hi>that the uſage of the two Houſes, in their mannaging of Affaires for theſe late yeares, being approved, may become a preſident unto every other inferiour Court, to act in their ſeverall Iurisdictions, without Law, Statute, Ordinance, or other lawfull Edict.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <head>POSTSCRIPT.</head>
+            <p>COurteous Reader, ſince the Authors compoſing of this, he hath made another piece, called a <hi>Commiſſion or Poſition,</hi> wherein it is proved to be lawfull, to labour and endeavour, for the Reſtitution of his Majeſty, though without Commiſſion for the ſame.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
